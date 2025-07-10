@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 こんにちは！mainasu-chan です
 
-<!--
-**mainasu-chan/mainasu-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ 自己紹介
 
-Here are some ideas to get you started:
+はじめまして！**mainasu-chan** です。  
+プログラミングや技術に興味を持って、日々学習に取り組んでいます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 スキル・興味のある技術
+
+- **プログラミング言語**: JavaScript, Python, Java など
+- **フロントエンド**: HTML, CSS, React
+- **バックエンド**: Node.js, Express
+- **データベース**: MySQL, MongoDB
+- **その他**: Git, GitHub, VS Code
+
+## 🚀 現在取り組んでいること
+
+- Web開発の基礎学習
+- オープンソースプロジェクトへの貢献
+- 新しい技術スタックの習得
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mainasu-chan&show_icons=true&theme=radical)
+
+## 📫 連絡先
+
+何かご質問やご提案がございましたら、お気軽にご連絡ください！
+
+- GitHub: [@mainasu-chan](https://github.com/mainasu-chan)
+- Email: お気軽にGitHubのIssueからご連絡ください
+
+## 🎯 目標
+
+- より良いコードを書けるようになること
+- チーム開発での協力スキルを向上させること
+- オープンソースコミュニティに貢献すること
+
+---
+
+⭐ このリポジトリが役に立った場合は、ぜひStarをお願いします！
+
